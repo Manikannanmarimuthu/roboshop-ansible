@@ -26,7 +26,3 @@
   ansible.builtin.debug:
     msg: Password is already Changed!!
   when: out.rc == 1
-
-
-
-

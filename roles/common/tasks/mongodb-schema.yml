@@ -13,4 +13,3 @@
     login_host: mongodb-dev.devopsb70.online
     file: "/app/schema/{{component}}.js"
     idempotent: yes
-
